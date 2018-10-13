@@ -1,2 +1,2 @@
 #!/bin/bash
-(cd /tmp/src; xsp4)
+(cd /tmp/src; xsp4 && tail -f /dev/null)
